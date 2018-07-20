@@ -196,4 +196,29 @@ footer {
 
 
 
+/* ==================================================
+VISION
+================================================== */
+
+.vision-h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.vision-body {
+  padding-top: 100px;
+}
+
+.eye-container {
+  height: 200px;
+}
+
+.eye1,
+.eye2,
+.eye3 {
+  width: 33%;
+  height: 200px;
+}
+
+
 
