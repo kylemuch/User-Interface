@@ -135,8 +135,49 @@ Hero
   margin: 0 auto;
 }
 
+/* ==================================================
+MAIN
+================================================== */
+
+.features {
+  display: inline-block;
+  width: 45%;
+}
+
+.about {
+  display: inline-block;
+  width: 45%;
+  margin-left: 9%;
+}
+
+.main img {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.three {
+  display: inline-block;
+  width: 30%;
+}
+
+.product {
+  margin: 0 4.5%;
+}
 
 
+/* ==================================================
+CONTACT
+================================================== */
+.contact {
+  margin: 20px;
+}
+
+/* ==================================================
+FOOTER
+================================================== */
+footer {
+  text-align: center;
+}
 
 
 
