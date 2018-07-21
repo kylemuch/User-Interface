@@ -96,6 +96,7 @@ header .left a {
 header .right {
   display: inline-block;
   width: 20%;
+  /* background-image: url("../img/logo.png"); */
 }
 
 header .right img {
@@ -139,10 +140,14 @@ Hero
 }
 
 .hero .image-container {
+  background-image: url("../img/header-img.png");
+  background-repeat: no-repeat;
   vertical-align: middle;
   display: inline-block;
   width: 45%;
+  height: 100%;
 }
+
 
 .hero img {
   height: 300px;
@@ -220,5 +225,7 @@ VISION
   height: 200px;
 }
 
-
+.merienda {
+  font-family: "Merienda";
+}
 
